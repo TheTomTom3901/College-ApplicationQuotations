@@ -1,0 +1,32 @@
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\ApplicationQuotations\ApplicationQuotations\bin\Debug\ApplicationQuotations.exe.config
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\ApplicationQuotations\ApplicationQuotations\bin\Debug\ApplicationQuotations.exe
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\ApplicationQuotations\ApplicationQuotations\bin\Debug\ApplicationQuotations.pdb
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\ApplicationQuotations\ApplicationQuotations\obj\Debug\ApplicationQuotations.csprojResolveAssemblyReference.cache
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\ApplicationQuotations\ApplicationQuotations\obj\Debug\ApplicationQuotations.Form1.resources
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\ApplicationQuotations\ApplicationQuotations\obj\Debug\ApplicationQuotations.Properties.Resources.resources
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\ApplicationQuotations\ApplicationQuotations\obj\Debug\ApplicationQuotations.csproj.GenerateResource.Cache
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\ApplicationQuotations\ApplicationQuotations\obj\Debug\ApplicationQuotations.csproj.CoreCompileInputs.cache
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\ApplicationQuotations\ApplicationQuotations\obj\Debug\ApplicationQuotations.exe
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\ApplicationQuotations\ApplicationQuotations\obj\Debug\ApplicationQuotations.pdb
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\ApplicationQuotations\ApplicationQuotations\bin\Debug\ApplicationQuotations.exe.config
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\ApplicationQuotations\ApplicationQuotations\obj\Debug\ApplicationQuotations.exe
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\ApplicationQuotations\ApplicationQuotations\obj\Debug\ApplicationQuotations.pdb
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\ApplicationQuotations\ApplicationQuotations\bin\Debug\ApplicationQuotations.exe
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\ApplicationQuotations\ApplicationQuotations\bin\Debug\ApplicationQuotations.pdb
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\ApplicationQuotations\ApplicationQuotations\obj\Debug\ApplicationQuotations.csprojResolveAssemblyReference.cache
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\ApplicationQuotations\ApplicationQuotations\obj\Debug\ApplicationQuotations.Form1.resources
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\ApplicationQuotations\ApplicationQuotations\obj\Debug\ApplicationQuotations.Properties.Resources.resources
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\C#\ApplicationQuotations\ApplicationQuotations\obj\Debug\ApplicationQuotations.csproj.GenerateResource.Cache
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\ApplicationQuotations\ApplicationQuotations\bin\Debug\ApplicationQuotations.exe.config
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\ApplicationQuotations\ApplicationQuotations\bin\Debug\ApplicationQuotations.exe
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\ApplicationQuotations\ApplicationQuotations\bin\Debug\ApplicationQuotations.pdb
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\ApplicationQuotations\ApplicationQuotations\obj\Debug\ApplicationQuotations.csprojResolveAssemblyReference.cache
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\ApplicationQuotations\ApplicationQuotations\obj\Debug\ApplicationQuotations.Form1.resources
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\ApplicationQuotations\ApplicationQuotations\obj\Debug\ApplicationQuotations.Properties.Resources.resources
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\ApplicationQuotations\ApplicationQuotations\obj\Debug\ApplicationQuotations.csproj.GenerateResource.Cache
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\ApplicationQuotations\ApplicationQuotations\obj\Debug\ApplicationQuotations.csproj.CoreCompileInputs.cache
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\ApplicationQuotations\ApplicationQuotations\obj\Debug\ApplicationQuotations.exe
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\C#\ApplicationQuotations\ApplicationQuotations\obj\Debug\ApplicationQuotations.pdb
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1 - Complete\Upload\Programs\C#\ApplicationQuotations\ApplicationQuotations\bin\Debug\ApplicationQuotations.exe.config
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1 - Complete\Upload\Programs\C#\ApplicationQuotations\ApplicationQuotations\obj\Debug\ApplicationQuotations.exe
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1 - Complete\Upload\Programs\C#\ApplicationQuotations\ApplicationQuotations\obj\Debug\ApplicationQuotations.pdb
